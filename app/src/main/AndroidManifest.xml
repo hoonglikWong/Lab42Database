@@ -19,7 +19,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".insertActivity"
+        <activity android:name=".InsertActivity"
             android:label="@string/insert"
             android:parentActivityName=".MainActivity"></activity>
     </application>
